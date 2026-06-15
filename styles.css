@@ -6,3 +6,9 @@ div {
   color: blue;
   width: 15em;
 }
+
+.read
+.unread {
+  color: white;
+  background-color: black;
+}
