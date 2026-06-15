@@ -7,8 +7,13 @@ div {
   width: 15em;
 }
 
-.read
+.read,
 .unread {
   color: white;
   background-color: black;
+}
+
+body {
+  color: yellow;
+  background-color: orange;
 }
