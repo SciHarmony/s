@@ -1,5 +1,8 @@
 .wtf {
   color: red;
+  outline: 2px solid red;
+  margin: 2rem 0;
+  padding: 20px;
 }
 
 div {
