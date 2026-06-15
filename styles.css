@@ -11,6 +11,11 @@ div {
 .unread {
   color: white;
   background-color: black;
+  font-family: Times New Roman;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  
 }
 
 body {
